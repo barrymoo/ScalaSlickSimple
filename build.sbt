@@ -2,7 +2,7 @@ name := "SimpleDB"
 
 version := "1.0"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.12.2"
 
 libraryDependencies ++= Seq(
   "com.typesafe.slick" %% "slick" % "3.2.0",
